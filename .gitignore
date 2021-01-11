@@ -130,3 +130,4 @@ dmypy.json
 
 # Jsons
 *.json
+canvas_data/users_db.sqlite3
