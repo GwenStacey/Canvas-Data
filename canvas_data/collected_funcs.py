@@ -1,3 +1,5 @@
+import requests
+
 def get_quizzes(course_id, headers):
     """This function returns a list of JSONs
     that include all of the quizzes for a given course
